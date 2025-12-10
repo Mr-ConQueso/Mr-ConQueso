@@ -18,7 +18,7 @@ Guidance for getting help in communities where you're involved
 
 -->
 ## About Me
-I'm an aspiring programmer, a little cheese in search of adventures! With a passion for game and website development, I enjoy designing 3D models and coding in Java, C#, and Python and crafting immersive gaming experiences or building dynamic web applications, I thrive on the challenges and creativity that programming offers. Let's create something extraordinary together! 🚀
+I'm an aspiring programmer, a little cheese in search of adventures! With a passion for game and website development, I design 3D models and code in Java, C#, Typecript and Python. I'm a sucker for complex coding puzzles and interactive applications. Let's create something extraordinary together! 🚀
 
 <!--
 I'm currenlty updating the [Misty World](https://github.com/Liahim85/MistyWorld_Open) Minecraft mod, as an effort to teach people about ecology, and the effects on the environment in it's own species.
